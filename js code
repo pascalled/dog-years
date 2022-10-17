@@ -1,0 +1,29 @@
+let myAge = 38;
+
+let dogYears = myAge * 7;
+
+let myName = 'pascalle dugay'.toUpperCase();
+
+console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${dogYears} years old in dog years.`);
+
+
+let person = {
+    personName: 'testName',
+    type: 'human',
+    personAge: 'anyNumber',
+    address: '',
+    favoriteThings: '',
+  };
+
+
+let goodBoy = {
+    dogName: 'rover',
+    dogAge: '6',
+    type: 'dog',
+}
+
+if ( < ) {
+    person = "Age of person in dog years: < >";
+  } else {
+    dog = "Age of dog in human years: < > ";
+  }
